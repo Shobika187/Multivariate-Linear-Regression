@@ -19,11 +19,11 @@ First we have to read a file using pandas.
 
 ### Step4
 
-In this programm we take u variables weight and volume.
+In this programm we take 2 variables weight and volume.
 
 ### Step5
 
-Using this two variables we find coefficient and interscept.
+Using this two variables we find coefficient and intercept.
 
 ## Program:
 ```
